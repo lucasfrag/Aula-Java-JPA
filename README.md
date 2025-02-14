@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto Java que exemplifica a construção de uma aplicação desktop utilizando Hibernate para persistência de dados, seguindo a especificação JPA (Java Persistence API).
 
+### ⚠️ ATENÇÃO!!!
+**Este projeto foi desenvolvido como parte de uma atividade educacional e tem fins exclusivamente didáticos.** Não é recomendado utilizá-lo em ambientes de produção.
+
+
 ## Tecnologias Utilizadas 🖥️
 O projeto **Java Maven** foi criado utilizando o **Apache NetBeans IDE** e com as dependências **Hibernate** e **JDBC Driver** - para mais informações consulte o arquivo `pom.xml`.
 
