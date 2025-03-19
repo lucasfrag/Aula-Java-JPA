@@ -15,7 +15,7 @@ O projeto **Java Maven** foi criado utilizando o **Apache NetBeans IDE** e com a
 Certifique-se de ter instalado em seu sistema:
 - [Java 23](https://www.oracle.com/br/java/technologies/downloads/) (ou superior)
 - [Apache NetBeans IDE](https://netbeans.apache.org/front/main/index.html)
-- [MySQL Server](https://www.mysql.com)
+- [MySQL](https://www.mysql.com)
 
 ### 2. Configuração do Banco de Dados 🛢️
 Execute os comandos SQL do arquivo `script.sql` para criar o banco de dados com suas respectivas  tabelas.
