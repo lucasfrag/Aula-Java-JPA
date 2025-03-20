@@ -1,4 +1,4 @@
-# 🚀 Java JPA Exemplo
+# 🚀 Java JPA - Aula
 
 Este repositório contém um projeto Java que exemplifica a construção de uma aplicação desktop utilizando Hibernate para persistência de dados, seguindo a especificação JPA (Java Persistence API).
 
